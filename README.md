@@ -34,6 +34,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [replit.com](https://replit.com) | *Must host using Replit*
 | [dual.my](https://dual.my/) |
 | [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
+| [yeet.su](https://yeet.su/) |
 
 # Contributing
 
