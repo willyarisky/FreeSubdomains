@@ -34,6 +34,7 @@ As a developer, sometimes you need a place to host your project, but you don't w
 | [replit.com](https://replit.com) | *Must host using Replit*
 | [dual.my](https://dual.my/) |
 | [tilde.tk](https://github.com/youngchief-btw/tilde.tk)
+| [yeet.su](https://yeet.su/) |
 | [getlocalcert.net](https://www.getlocalcert.net) | *For private network use only* |
 | [ngo.us](https://nic.ngo.us) | *For only verified not-for-profit organizations, NGOs* |
 | [nyc.mn](https://dot.nyc.mn) | *Must be related to New York City, NYC IP required* |
